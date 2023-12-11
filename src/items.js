@@ -1,5 +1,5 @@
 export const items = [
-    {name: 'Item1', price: 300, condition: 4, photo: 'https://cdn-images.farfetch-contents.com/19/57/32/38/19573238_43669802_600.jpg'},
-    {name: 'Item2', price: 200, condition: 3, photo: 'https://cdn-images.farfetch-contents.com/19/57/32/38/19573238_43669802_600.jpg'},
-    {name: 'Item3', price: 350, condition: 2, photo: 'https://cdn-images.farfetch-contents.com/19/57/32/38/19573238_43669802_600.jpg'},
+    {name: 'Футболка 1', price: 300, condition: 4, photo: 'https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbb%2F17%2Fbb17364788d7b6fa94c03ff391850522f8933487.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]'},
+    {name: 'Футболка 2', price: 200, condition: 3, photo: 'https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fee%2F62%2Fee62e8ab00ad791f63519bad833b1a2f5da82b2a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]'},
+    {name: 'Футболка 2', price: 350, condition: 2, photo: 'https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F54%2Fcf%2F54cf547cff5c5518015c8d2c930f8e35ef155e78.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]'},
 ]

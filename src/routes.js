@@ -11,4 +11,13 @@ export const routes = [
     {
         name: 'Search', path: '/search', component: () => import('./views/TheSearch.vue')
     },
+    {
+        name: 'Delievery', path: '/delievery', component: () => import('./views/TheDelievery.vue')
+    },
+    {
+        name: 'Faq', path: '/faq', component: () => import('./views/TheFaq.vue')
+    },
+    {
+        name: 'About', path: '/about', component: () => import('./views/TheAbout.vue')
+    },
 ]
